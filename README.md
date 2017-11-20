@@ -15,7 +15,7 @@ DB deatils:
 2 tabel is being used.
 1-Person
 2-Authorizations
-*Authorizations tabel is a mapping table persons.
+*Authorizations tabel is a mapping for persons tabel.
 *Schema query is there in schema.sql
 *Data qurey is there in data.sql
 
@@ -29,12 +29,12 @@ Views:
 
 Resource URI's:
 ----------------------------------------------
-/createUser
-/dashboard
-/adduser
-/userApproval
-/userRequest
-/logout
+1-/createUser
+2-/dashboard
+3-/adduser
+4-/userApproval
+5-/userRequest
+6-/logout
 
 Design Pattern used:
 -----------------------------------------------
